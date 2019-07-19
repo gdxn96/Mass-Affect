@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "p1.png",
+	"frame": {"x":0,"y":0,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":80},
+	"sourceSize": {"w":100,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "p2.png",
+	"frame": {"x":100,"y":0,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":80},
+	"sourceSize": {"w":100,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "p3.png",
+	"frame": {"x":200,"y":0,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":80},
+	"sourceSize": {"w":100,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "p4.png",
+	"frame": {"x":300,"y":0,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":80},
+	"sourceSize": {"w":100,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "priestBackJSON.png",
+	"format": "RGBA8888",
+	"size": {"w":400,"h":80},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:87a74cd5e1a30b81b7e2a5efcf00e6ee:b1623988f998e14d0c28206e93f47ae9:c80af5c8a58eb35cd1f0d76bb73b2001$"
+}
+}

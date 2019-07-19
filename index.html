@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <!-- prevent scaling -->
+    <meta name="viewport" content="target-densitydpi=device-dpi, initial-scale=1.0, user-scalable=no" />
+    <title>Mass Affect</title>
+    <link rel="stylesheet" href="js/Mass Affect.css"/>
+  </head>
+
+  <body onload="main();">
+    <script src="js/Animation.js"></script>
+    <script src="js/App.js"></script>
+    <script src="js/Mass Affect.js"></script>
+    <script src="js/AudioManager.js"></script>
+    <script src="js/AudioGenerator.js"></script>
+    <script src="js/AssetLoader.js"></script>
+    <script src="js/Note.js"></script>
+    <script src="js/Chord.js"></script>
+
+    <script src="js/button.js"></script>
+    <script src="js/triggerManager.js"></script>
+    <script src="js/noteTrigger.js"></script>
+    <script src="js/vector.js"></script>
+
+    <div id="game">
+          <img id="bgr" src="images/church.png"/>
+          <img class="buttons" id="button_bible" src="images/button_bible.png"/>
+          <img class="buttons" id="button_cross" src="images/button_cross.png"/>
+          <img class="buttons" id="button_dove" src="images/button_dove.png"/>
+          <img class="buttons" id="hit_dove" src="images/hit_dove.png"/>
+          <img class="buttons" id="hit_cross" src="images/hit_cross.png"/>
+          <img class="buttons" id="hit_bible" src="images/hit_bible.png"/>
+
+          <img id="priest" src="images/priest.gif"/>
+          <img class="tracks" id="track1" src="images/red_track.png"/>
+          <img class="tracks" id="track2" src="images/green_track.png"/>
+          <img class="tracks" id="track3" src="images/blue_track.png"/>
+    </div> <!-- this div encompasses the game and scales proportional to the window -->
+  </body>
+</html>
